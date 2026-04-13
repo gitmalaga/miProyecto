@@ -1,4 +1,5 @@
-console.log("Iniciando aplicación");
+console.log("Iniciando aplicación");7
+console.log("DEBUG:Esto no dbería star aqui");
 
 const saludo = (nombre) => {
   return 'hola, ${nombre}';
